@@ -74,7 +74,7 @@
     <script src="Front-End/Scripts/add.js"></script>
 
 
-    <footer>Scandiweb Test assignment</footer>
+   
 
 
 </body>
