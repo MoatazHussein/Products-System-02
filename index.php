@@ -18,7 +18,7 @@
 
 
 
-  <footer>Scandiweb Test assignment</footer>
+
 
 </body>
 
